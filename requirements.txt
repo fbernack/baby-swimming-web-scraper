@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+PyYAML==6.0
+PyYAML==6.0
+Requests==2.28.2
