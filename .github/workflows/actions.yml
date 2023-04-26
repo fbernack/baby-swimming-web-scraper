@@ -28,7 +28,7 @@ jobs:
         run: |
           EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
           echo "COURSES<<$EOF" >> $GITHUB_OUTPUT
-          cat courses.yml >> $GITHUB_OUTPUT
+          cat courses.md >> $GITHUB_OUTPUT
           echo "$EOF" >> $GITHUB_OUTPUT
         id: read
       - name: Send mail
@@ -41,6 +41,7 @@ jobs:
           subject: 'Baby Swimming: New courses online'
           to: franz.bernack@cranky.de
           from: BabySwimming WebScraper
-          body: ${{ steps.read.outputs.COURSES }}
+          html_body: courses.md
+          # body: ${{ steps.read.outputs.COURSES }}
           # Optional converting Markdown to HTML (set content_type to text/html too):
           convert_markdown: true
