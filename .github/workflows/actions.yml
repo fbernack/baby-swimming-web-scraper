@@ -25,7 +25,13 @@ jobs:
       - name: Execute py script
         run: python main.py
 
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update courses.md
+
       - name: Send email
+        if: steps.auto-commit-action.outputs.changes_detected == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
