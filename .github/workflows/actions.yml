@@ -41,7 +41,7 @@ jobs:
           subject: 'Baby Swimming: New courses online'
           to: franz.bernack@cranky.de
           from: BabySwimming WebScraper
-          html_body: courses.md
+          html_body: file://courses.md
           # body: ${{ steps.read.outputs.COURSES }}
           # Optional converting Markdown to HTML (set content_type to text/html too):
           convert_markdown: true
