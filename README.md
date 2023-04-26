@@ -1,8 +1,8 @@
-# baby-swimming-web-scraper
+# 👶🏊‍ Baby Swimming Web Scraper
 
-Web scraper including GitHub action to retrieve new appointments for baby swimming courses from a website every hour and send them via email if needed. Can be used as a template for your own web scraper as well as scheduled tasks.
+Web scraper including GitHub Action workflow to retrieve new appointments for baby swimming courses from a website every hour and send them via email if needed. Can be used as a template for your own web scraper as well as for scheduled tasks.
 
-## Usage
+## Manual usage
 
 1. *(Optional)* Setup & activate virtual environment
 
@@ -13,7 +13,6 @@ Web scraper including GitHub action to retrieve new appointments for baby swimmi
 
         pip install requests
         pip install beautifulsoup4
-        pip install pyyaml
 
 3. Execute web scraper
    
