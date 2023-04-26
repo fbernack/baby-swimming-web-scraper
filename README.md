@@ -19,6 +19,13 @@ Web scraper including GitHub action to retrieve new appointments for baby swimmi
    
         python main.py
 
+## Settings for GitHub Action
+
+For the GitHub Action you need the following configurations:
+
+1. Set the *Workflow Permissions* to *Read and write permissions* under *Settings > Actions > General*.
+2. Under *Settings > Secrets and variables > Actions* define the repository secrets `MAIL_PASSWORD` and `MAIL_USERNAME`
+
 ## Note
 `pipereqs` is used for creating the `requirements.txt`. 
 
