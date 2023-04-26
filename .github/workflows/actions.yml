@@ -34,5 +34,6 @@ jobs:
           subject: 'Baby Swimming: New courses online'
           to: franz.bernack@cranky.de
           from: BabySwimming WebScraper
+          body: Test
           # Optional converting Markdown to HTML (set content_type to text/html too):
-          convert_markdown: true
+          # convert_markdown: true
