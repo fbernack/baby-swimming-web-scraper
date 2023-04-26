@@ -1,4 +1,4 @@
-name: run web scraper
+name: Run web scraper
 
 on: 
   schedule:
