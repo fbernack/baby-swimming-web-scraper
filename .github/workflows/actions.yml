@@ -1,8 +1,8 @@
 name: run web scraper
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
+on: [workflow_dispatch]
+  #schedule:
+    #- cron: '0 * * * *' # Runs every hour
 
 jobs:
   build:
