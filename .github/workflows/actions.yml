@@ -25,8 +25,7 @@ jobs:
       - name: execute py script
         run: python main.py
       - name: Read courses
-        run: |
-          echo "COURSES=$(cat courses.yml)" >> $GITHUB_OUTPUT
+        run: echo "COURSES=$(cat courses.yml)" >> $GITHUB_OUTPUT
         id: read
       - name: Send mail
         uses: dawidd6/action-send-mail@v3
