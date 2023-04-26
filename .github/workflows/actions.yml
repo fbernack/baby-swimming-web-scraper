@@ -26,6 +26,7 @@ jobs:
         run: python main.py
       - name: Read courses
         run: |
+          EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
           echo "COURSES<<$EOF" >> $GITHUB_OUTPUT
           cat courses.yml >> $GITHUB_OUTPUT
           echo "$EOF" >> "$GITHUB_ENV"
