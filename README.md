@@ -1,6 +1,6 @@
 # 👶🏊‍ Baby Swimming Web Scraper
 
-Web scraper including GitHub Action workflow to retrieve new appointments for baby swimming courses from a website every hour and send them via email if needed. Can be used as a template for your own web scraper as well as for scheduled tasks.
+Web scraper including GitHub Action workflow to retrieve new appointments for baby swimming courses from a website every other hour and send them via email if needed. Can be used as a template for your own web scraper as well as for scheduled tasks.
 
 ## Manual usage
 
