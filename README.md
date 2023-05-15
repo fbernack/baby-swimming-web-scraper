@@ -33,7 +33,7 @@ For the GitHub Action you need the following configurations:
 2. Under *Settings > Secrets and variables > Actions* define the repository secrets `MAIL_PASSWORD` and `MAIL_USERNAME`
 
 ## Note
-`pipereqs` is used for creating the `requirements.txt`. 
+`pipreqs` is used for creating the `requirements.txt`. 
 
     pip install pipreqs
     pipreqs /path/to/project
