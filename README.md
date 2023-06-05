@@ -2,6 +2,8 @@
 
 Web scraper including GitHub Action workflow to retrieve new appointments for baby swimming courses from a website every other hour and send them via email if needed. Can be used as a template for your own web scraper as well as for scheduled tasks.
 
+🍿 YouTube Tutorial: https://www.youtube.com/watch?v=EDa-snU_Tpw
+
 ## Manual usage
 
 Either you use a virtual environment *(preferred)*:
