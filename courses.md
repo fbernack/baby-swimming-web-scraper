@@ -15,4 +15,4 @@
 [Kursbeginn 26.09.2023 LEIDER AUSGEBUCHT!](https://shop.fresch-freising.de/courses/5/course/24)
 
 ## B2 Neu Babyschwimmen Grundkurs Montag 10:30 Uhr
-[Kursbeginn 25.09.2023](https://shop.fresch-freising.de/courses/5/course/32)
+[Kursbeginn 25.09.2023 LEIDER AUSGEBUCHT!](https://shop.fresch-freising.de/courses/5/course/32)
