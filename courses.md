@@ -6,7 +6,7 @@
 [Kursbeginn 27.09.2023 LEIDER AUSGEBUCHT!](https://shop.fresch-freising.de/courses/5/course/7)
 
 ## B6-Babyschwimmen Aufbaukurs Mittwoch 10:30 Uhr
-[Kursbeginn 27.09.2023](https://shop.fresch-freising.de/courses/5/course/9)
+[Kursbeginn 27.09.2023 LEIDER AUSGEBUCHT!](https://shop.fresch-freising.de/courses/5/course/9)
 
 ## B1 Babyschwimmen Grundkurs Montag 09:30 Uhr
 [Kursbeginn 25.09.2023 LEIDER AUSGEBUCHT!](https://shop.fresch-freising.de/courses/5/course/23)
