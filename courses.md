@@ -1,6 +1,6 @@
 # Babyschwimmen Kursübersicht
 ## B3-Babyschwimmen Grundkurs Dienstag 09:30 Uhr
-[Kursbeginn 14.05.2024](https://shop.fresch-freising.de/courses/5/course/1)
+[Kursbeginn 14.05.2024 LEIDER AUSGEBUCHT!](https://shop.fresch-freising.de/courses/5/course/1)
 
 ## B5-Babyschwimmen Grundkurs Mittwoch 09:30 Uhr
 [Kursbeginn 15.05.2024 LEIDER AUSGEBUCHT!](https://shop.fresch-freising.de/courses/5/course/7)
